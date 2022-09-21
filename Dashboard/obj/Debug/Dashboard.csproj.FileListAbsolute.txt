@@ -1,0 +1,12 @@
+E:\C#\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+E:\C#\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+E:\C#\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+E:\C#\Dashboard\Dashboard\bin\Debug\Guna.UI2.dll
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.form1.resources
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+E:\C#\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
